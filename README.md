@@ -37,7 +37,7 @@ Here's a quick demo of the credit card checkout application:
 
 ![Credit Card Checkout Demo](demo.gif)
 
-You can see a live demo of the credit card checkout [here](https://simple-sign-up-page-theta.vercel.app/).
+You can see a live demo of the credit card checkout [here](https://credit-card-checkout-nine.vercel.app/).
 
 ## Credits
 
