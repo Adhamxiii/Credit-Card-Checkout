@@ -1,14 +1,18 @@
-# Credit Card Checkout Web Application
+# 💳 Credit Card Checkout Web Application
 
 This is a simple credit card checkout web application that allows users to enter their credit card information for payment. The application provides a visually appealing user interface and includes input validation and formatting for a better user experience.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [💳 Credit Card Checkout Web Application](#-credit-card-checkout-web-application)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Usage](#usage)
+  - [Demo](#demo)
+  - [Credits](#credits)
+  - [Contributing](#contributing)
+  - [Contact Information](#contact-information)
 
 ## Features
 
@@ -37,7 +41,7 @@ Here's a quick demo of the credit card checkout application:
 
 ![Credit Card Checkout Demo](demo.gif)
 
-You can see a live demo of the credit card checkout [here](https://credit-card-checkout-nine.vercel.app/).
+You can see a live demo of the credit card checkout [here](#).
 
 ## Credits
 
@@ -46,3 +50,11 @@ You can see a live demo of the credit card checkout [here](https://credit-card-c
 ## Contributing
 
 Contributions are welcome! If you find any bugs or want to improve the application, feel free to submit an issue or a pull request.
+
+## Contact Information
+
+If you have any questions or need assistance, you can reach out to the project author:
+
+- Email: [Adham Nasser](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamxiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)

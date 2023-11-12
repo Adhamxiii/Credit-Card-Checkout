@@ -31,24 +31,49 @@
         <h1>Payment Details</h1>
         <form>
           <div class="form-group">
-            <input type="text" id="name"  />
+            <input type="text" id="name" />
             <label for="name">Cardholder Name</label>
           </div>
           <div class="form-group">
-            <input type="number" id="number" />
+            <input
+              type="number"
+              id="number"
+              maxlength="16"
+              placeholder="0000 0000 0000 0000"
+              min="0"
+            />
             <label for="number">Card Number</label>
           </div>
           <div class="card-details">
             <div class="form-group">
-              <input type="number" id="month" />
+              <input
+                type="number"
+                id="month"
+                maxlength="2"
+                placeholder="MM"
+                min="1"
+                max="12"
+              />
               <label for="month">Expiry Month</label>
             </div>
             <div class="form-group">
-              <input type="number" id="year" />
+              <input
+                type="number"
+                id="year"
+                maxlength="2"
+                placeholder="YY"
+                min="1"
+              />
               <label for="year">Expiry Year</label>
             </div>
             <div class="form-group">
-              <input type="number" id="cvc" />
+              <input
+                type="number"
+                id="cvc"
+                maxlength="3"
+                placeholder="000"
+                min="0"
+              />
               <label for="cvc">CVC</label>
             </div>
           </div>
