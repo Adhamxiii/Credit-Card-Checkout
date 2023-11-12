@@ -41,7 +41,7 @@ Here's a quick demo of the credit card checkout application:
 
 ![Credit Card Checkout Demo](demo.gif)
 
-You can see a live demo of the credit card checkout [here](#).
+You can see a live demo of the credit card checkout [here](https://credit-card-checkout-tawny.vercel.app/).
 
 ## Credits
 
